@@ -36,12 +36,14 @@ Supervised learning is a type of machine learning method in which we provide sam
 Supervised learning can be grouped further in two categories of algorithms:
 
 a)Classification-Classification algorithms are used to predict/Classify the discrete values such as Male or Female, True or False, Spam or Not Spam, etc.
+
 b)Regression- Regression algorithms are used to predict the continuous values such as price, salary, age, etc.
 
 ## 2. Unsupervised Learning-
 Unsupervised learning is a learning method in which a machine learns without any supervision.The training is provided to the machine with the set of data that has not been labeled, classified, or categorized, and the algorithm needs to act on that data without any supervision. The goal of unsupervised learning is to restructure the input data into new features or a group of objects with similar patterns.In unsupervised learning, we don't have a predetermined result. The machine tries to find useful insights from the huge amount of data. It can be further classifieds into two categories of algorithms:
 
 a)Clustering- Clustering has to do with identifying similar cases in a dataset (i.e. you want to group your rows).
+
 b)Association- Association has to do with identifying similar dimensions in a dataset (i.e. you want to group your columns).
 
 ## 3. Reinforcement Learning-
@@ -51,8 +53,11 @@ Reinforcement learning is a feedback-based learning method, in which a learning 
 Following are some key points which show the importance of Machine Learning:
 
 a) Rapid increment in the production of data
+
 b) Solving complex problems, which are difficult for a human
+
 c) Decision making in various sector including finance
+
 d) Finding hidden patterns and extracting useful information from data.
 
 
