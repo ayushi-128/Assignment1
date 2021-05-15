@@ -1,5 +1,5 @@
 # Python Libraries- 
-I have learned some basic Python Libraries which are helpful for starting the machine learning.
+I have learned some basic Python Libraries which are helpful for starting the machine learning and also learned about machine learning basics.
 ## 1.Pandas -
 Pandas is an open-source library that is built on top of NumPy library. It is a Python package that offers various data structures and operations for manipulating numerical data and time series. It is mainly popular for importing and analyzing data much easier. Pandas is fast and it has high-performance & productivity for users.
 To create a Pandas Series, we must first import the Pandas package via the Python's import command: import pandas as pd
@@ -34,11 +34,13 @@ Machine learning is the study of computer algorithms that improve automatically 
 ## 1.Supervised Learning-
 Supervised learning is a type of machine learning method in which we provide sample labeled data to the machine learning system in order to train it, and on that basis, it predicts the output.The goal of supervised learning is to map input data with the output data. The supervised learning is based on supervision, and it is the same as when a student learns things in the supervision of the teacher. The example of supervised learning is spam filtering.
 Supervised learning can be grouped further in two categories of algorithms:
+
 a)Classification-Classification algorithms are used to predict/Classify the discrete values such as Male or Female, True or False, Spam or Not Spam, etc.
 b)Regression- Regression algorithms are used to predict the continuous values such as price, salary, age, etc.
 
 ## 2. Unsupervised Learning-
 Unsupervised learning is a learning method in which a machine learns without any supervision.The training is provided to the machine with the set of data that has not been labeled, classified, or categorized, and the algorithm needs to act on that data without any supervision. The goal of unsupervised learning is to restructure the input data into new features or a group of objects with similar patterns.In unsupervised learning, we don't have a predetermined result. The machine tries to find useful insights from the huge amount of data. It can be further classifieds into two categories of algorithms:
+
 a)Clustering- Clustering has to do with identifying similar cases in a dataset (i.e. you want to group your rows).
 b)Association- Association has to do with identifying similar dimensions in a dataset (i.e. you want to group your columns).
 
